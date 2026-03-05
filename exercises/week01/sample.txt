@@ -1,0 +1,4 @@
+Python is fun. Python is practical.
+Code, test, improve; code and repeat.
+Learning Python means practice, practice, practice.
+Errors happen; debugging helps.
