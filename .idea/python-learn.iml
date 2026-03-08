@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python">
+      <configuration sdkName="3.10 WSL (Ubuntu): (/home/suns/.virtualenvs/learning-python/bin/python)" />
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.14 (print-g-doc)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="3.10 WSL (Ubuntu): (/home/suns/.virtualenvs/learning-python/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="3.10 WSL (Ubuntu): (/home/suns/.virtualenvs/learning-python/bin/python) interpreter library" level="application" />
   </component>
 </module>

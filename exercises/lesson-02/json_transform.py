@@ -56,7 +56,7 @@ def main() -> int:
         return 1
 
     transformed = transform_users(users)
-    sorted_result = transformed.sort(key=lambda u: (u["name"],u["id"]))
+    sorted_result = sorted(transformed, key=lambda u: (u["name"],u["id"]))
     OUTPUT_PATH.write_text(
         json.dumps(sorted_result, indent=2),
         encoding="utf-8",
