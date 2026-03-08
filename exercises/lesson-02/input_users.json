@@ -1,0 +1,37 @@
+[
+  {
+    "id": 3,
+    "name": "  Alice  ",
+    "email": "ALICE@example.com ",
+    "active": true,
+    "tags": ["Python", "api", "python"]
+  },
+  {
+    "id": 1,
+    "name": "Bob",
+    "email": "bob@example.com",
+    "active": false,
+    "tags": ["data", "ETL"]
+  },
+  {
+    "id": 2,
+    "name": "   Carol",
+    "email": "carol@example.com",
+    "active": true,
+    "tags": ["Data", "ml", "ML"]
+  },
+  {
+    "id": 4,
+    "name": "Dan",
+    "email": "danexample.com",
+    "active": true,
+    "tags": ["backend"]
+  },
+  {
+    "id": 5,
+    "name": "Alice Duplicate",
+    "email": "alice@example.com",
+    "active": true,
+    "tags": ["duplicate"]
+  }
+]
